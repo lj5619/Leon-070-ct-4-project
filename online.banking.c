@@ -136,7 +136,7 @@ int main(){
 					
 					default:
 					break;
-				}//switch ends here
+				}
 				printf("\n\nDo you want to continue?[y/n]:\t");
 				scanf("%s",&cont);
 				}
